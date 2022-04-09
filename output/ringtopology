@@ -1,0 +1,14 @@
+n -t * -s 3 -v circle -c black -z 0.033971 -S UP
+n -t * -s 2 -v circle -c black -z 0.033971 -S UP
+n -t * -s 6 -v circle -c black -z 0.033971 -S UP
+n -t * -s 1 -v circle -c black -z 0.033971 -S UP
+n -t * -s 5 -v circle -c black -z 0.033971 -S UP
+n -t * -s 0 -v circle -c black -z 0.033971 -S UP
+n -t * -s 4 -v circle -c black -z 0.033971 -S UP
+l -t * -s 3 -d 4 -r 2.000000 -D 10.000000 -c black -o 280.8deg -l 0.188815 -S UP
+l -t * -s 2 -d 3 -r 2.000000 -D 10.000000 -c black -o 129.7deg -l 0.323936 -S UP
+l -t * -s 1 -d 2 -r 2.000000 -D 10.000000 -c black -o 281.6deg -l 0.090843 -S UP
+l -t * -s 5 -d 6 -r 2.000000 -D 10.000000 -c black -o 98.0deg -l 0.169469 -S UP
+l -t * -s 0 -d 6 -r 2.000000 -D 10.000000 -c black -o 37.7deg -l 0.037026 -S UP
+l -t * -s 0 -d 1 -r 2.000000 -D 10.000000 -c black -o 352.8deg -l 0.342340 -S UP
+l -t * -s 4 -d 5 -r 2.000000 -D 10.000000 -c black -o 193.3deg -l 0.076184 -S UP
